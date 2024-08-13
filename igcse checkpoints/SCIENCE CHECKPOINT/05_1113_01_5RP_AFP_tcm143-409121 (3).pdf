@@ -1,0 +1,56 @@
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js lt-ie10" lang="en"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html lang="en" class="no-js">
+<!--<![endif]-->
+
+<head>
+    <meta charset="utf-8" />
+    <title>403 Error | CIE</title>
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/themes/admin/apple-touch-icon.png?v=2">
+    <link rel="icon" type="image/png" href="/assets/images/themes/admin/favicon-32x32.png?v=2" sizes="32x32">
+    <link rel="icon" type="image/png" href="/assets/images/themes/admin/favicon-16x16.png?v=2" sizes="16x16">
+    <link rel="shortcut icon" href="/assets/images/themes/admin/favicon.ico?v=2">
+    <meta name="apple-mobile-web-app-title" content="CIE">
+    <meta name="application-name" content="CIE">
+    <script>
+        document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+    </script>
+    <link rel="stylesheet" href="/assets/styles/admin/main.css?v=0.14220024348980198">
+</head>
+
+<body class="body--logged-out ">
+    <header class="header-logged-out">
+        <img alt="Cambridge International Examinations" class="header-logged-out__image" src="/assets/images/CAIE_Master_Logo_RGB.svg" />
+    </header>
+    <main class="content" id="content">
+        <div class="wrapper">
+            <div class="server-error">
+                <h1>Access Forbidden</h1>
+                <p>Sorry, it seems you do not have permission to view this page</p>
+                <p>
+                    You could try going back to the
+                    <a href="/">homepage</a>.
+                </p>
+                <p>
+                    If you continue to get this error, please contact
+                    <a href="info@cambridgeinternational.org">info@cambridgeinternational.org</a> with the address of the page you are looking for.
+                </p>
+                <p>Thank you for your patience in this matter.</p>
+            </div>
+        </div>
+    </main>
+    <footer class="footer-logged-out">
+        <div class="footer__legal">
+            <p>&copy; Cambridge International Examinations 2016.</p>
+            <p>All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="/assets/scripts/bundle.js"></script>
+</body>
+
+</html>
